@@ -1,4 +1,4 @@
-#Spanish sentence examples
+# Spanish sentence examples
 This project uses selenium to query Google translate for example Spanish sentences containing a given word.
 
 I am using this to help create an ANKI deck to learn Spanish.
